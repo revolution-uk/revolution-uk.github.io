@@ -208,13 +208,9 @@ the website, in dark theme
 }
 
 .nav__logo{
-  text-transform: uppercase;
-  font-weight: 700;
-  letter-spacing: -1px;
-  display: inline-flex;
-  align-items: center;
-  column-gap: .5rem;
   transition: .3s;
+  height: 3.5rem;
+  width: 14rem;
 }
 
 .nav__logo-icon{
@@ -796,7 +792,7 @@ the website, in dark theme
 
 .footer__logo-img{
   height: 3rem;
-  width: 13rem;
+  width: 11rem;
 }
 
 .footer__copy-container {
